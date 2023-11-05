@@ -7,12 +7,12 @@
    <h3>Description</h3>
 
   
-   This Vue 3 Client which is hosted at GitHub Pages works together with a secure ASP.NET Core 2.2 Web API at Azure App Service doing Basic Authentication 
+   This Vue 3 client which is hosted at GitHub Pages works together with a secure ASP.NET Core 2.2 Web API at Azure App Service doing Basic Authentication 
    <br/> <br/>
    
    <b>Last Updated</b>
    <ul>
-    <li>01-11-2023</li>
+    <li>05-11-2023</li>
    </ul>
 
    <b>Main functionality</b>
