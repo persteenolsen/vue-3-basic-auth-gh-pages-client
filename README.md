@@ -4,5 +4,6 @@
 - Using Pinia for store management
 - Hosted GH Pages
 - Vite for Dev and build tool instead of Webpack
+- Last updated: 27-03-2024
 
 Node Version 14.17.3 was used for Dev + Build for this Vue Web Application
